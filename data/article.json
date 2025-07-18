@@ -1,0 +1,100 @@
+{
+  "list_article": [
+    {
+    "id"	 : "01",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"001",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "02",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"002",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "03",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"003",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "04",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"004",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "05",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"005",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "06",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"006",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "07",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"007",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "08",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"008",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "09",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"009",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "10",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"010",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "11",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"011",
+    "categoryId" :"Article",
+    "createdAt" :""
+    },
+        {
+    "id"	 : "12",
+    "title" : "CyberSecurity Essentials Every Developer Should Know",
+    "content" : "Protecth your apps and users with these fundamental cyber security pratictices for developers",
+    "userId" :	"012",
+    "categoryId" :"Article",
+    "createdAt" :""
+    }
+]
+}

@@ -1,0 +1,65 @@
+{
+  "register": [
+    {
+      "username": "",
+      "password": "",
+      "role": "",
+      "id": "30ab"
+    },
+    {
+      "id": "8158",
+      "username": "rasyid",
+      "passowrd": "rasyid",
+      "role": "user"
+    },
+    {
+      "id": "28fa",
+      "username": "rasyid",
+      "passowrd": "rasyid",
+      "role": "user"
+    },
+    {
+      "id": "040f"
+    },
+    {
+      "id": "3106"
+    },
+    {
+      "id": "efd8"
+    },
+    {
+      "id": "3e24"
+    },
+    {
+      "id": "cbfc"
+    },
+    {
+      "id": "0f09"
+    },
+    {
+      "id": "b423"
+    },
+    {
+      "id": "027a",
+      "username": "sadsa",
+      "password": "asdaaaad",
+      "selectedRol": ""
+    },
+    {
+      "id": "d7a7",
+      "username": "sadsa",
+      "password": "asdaaaad",
+      "selectedRol": "option1"
+    },
+    {
+      "id": "6a70",
+      "username": "sadsa",
+      "password": "asdaaaad",
+      "selectedRol": "Admin"
+    }
+  ]
+}
+
+
+
+
