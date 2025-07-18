@@ -32,7 +32,7 @@ const Navbar = () => {
         </div>
         <Banneratas />
       </div>
-      <div className="justify-center mx-auto flex items-center max-w-7xl"></div>
+      
     </nav>
   );
 };
